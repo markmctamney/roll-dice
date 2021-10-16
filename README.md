@@ -1,2 +1,3 @@
 # roll-dice
-Elo matchup optimization
+
+Elo matchup optimization (WIP)
